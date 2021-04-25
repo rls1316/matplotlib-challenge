@@ -10,4 +10,4 @@ Analyze the data and generate all of the tables and figures needed for the techn
 * There is a strong correlation between the Weight of the Mouse and the size of their tumor for mice on the Capomulin Drug Regimen. Based on the data provided we can see the heavier the mouse, the larger the tumor by volume is. (See 'Capomulin: Average Tumor Volume vs Mouse Weight' ScatterPlot)
 * There is only 1 outlier present in the data evaluated, this would indicate that the data results are consistent and we can draw reliably accurate conclusions on the level of effectiveness of each Drug Regimen.
 
-For Details and Visuals: [Final Data](Pymaceuticals/pymaceuticals_final.ipynb)
+Final figures and tables: see the [Final Data](Pymaceuticals/pymaceuticals_final.ipynb) workbook.
